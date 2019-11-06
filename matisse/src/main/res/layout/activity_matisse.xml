@@ -111,18 +111,18 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/toolbar"
         android:orientation="vertical"
-        style="@style/MatisseHeaderContainer">
+        android:padding="10dp">
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/header_text"
-            style="@style/MatisseHeaderTitle"
+            android:textSize="16sp"
+            android:textStyle="bold"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/course_photos_select_photo_header_title" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/header_message"
-            style="@style/MatisseHeaderMessage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/course_photos_select_photo_header_message" />
