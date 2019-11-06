@@ -39,4 +39,7 @@
     <string name="button_original">Original</string>
     <string name="button_sure_default">Sure</string>
     <string name="button_sure">Sure(%1$d)</string>
+
+    <string name="course_photos_select_photo_header_message">Include general photos and photos of individual holes to help new players understand the course.\nPlease do not add photos of people.\nYou can add captions after selecting a photo.</string>
+    <string name="course_photos_select_photo_header_title">Select Photos</string>
 </resources>

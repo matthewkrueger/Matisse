@@ -41,6 +41,18 @@
         <item name="capture.textColor">@color/zhihu_capture</item>
     </style>
 
+    <style name="MatisseHeaderTitle">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="MatisseHeaderMessage">
+
+    </style>
+
+    <style name="MatisseHeaderContainer">
+        <item name="android:padding">10dp</item>
+    </style>
+
     <style name="Toolbar.Zhihu" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
 
     </style>
